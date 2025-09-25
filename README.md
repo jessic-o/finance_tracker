@@ -17,18 +17,18 @@ Track income and expenses, view balances, and analyze your spending habits with 
 
 ## ⚙️ Project Structure
 finance_tracker/
-├── app.py # Flask app (routes, views, charts)
-├── tracker.py # Core logic (Transaction & FinanceTracker classes)
-├── templates/ # HTML templates (Jinja2 + Bootstrap)
-│ ├── base.html # Base template
-│ ├── index.html # Dashboard
-│ ├── add.html # Add transaction form
-│ └── summary.html # Summary & chart
-├── static/ # Static files (charts, CSS)
-│ └── chart.png # Matplotlib chart (generated dynamically)
-├── transactions.csv # Data storage
-├── requirements.txt # Dependencies
-└── README.md # Project documentation
+├── app.py              # Flask app (routes, views, charts)
+├── tracker.py          # Core logic (Transaction & FinanceTracker classes)
+├── templates/          # HTML templates (Jinja2 + Bootstrap)
+│   ├── base.html       # Base template
+│   ├── index.html      # Dashboard
+│   ├── add.html        # Add transaction form
+│   └── summary.html    # Summary & chart
+├── static/             # Static files (charts, CSS)
+│   └── chart.png       # Matplotlib chart (generated dynamically)
+├── transactions.csv    # Data storage
+├── requirements.txt    # Dependencies
+└── README.md           # Project documentation
 
 ---
 
