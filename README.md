@@ -40,7 +40,7 @@ finance_tracker/
 
 ---
 
-📌 Future Improvements
+##📌 Future Improvements
 - Add user authentication (login system)
 - Switch storage from CSV → SQLite database
 - Add line charts for balance over time
@@ -49,7 +49,8 @@ finance_tracker/
 
 ---
 
-👩🏾‍💻 Author
-Name: Jessica O'Bonna
-LinkedIn: https://www.linkedin.com/in/jessica-obonna
+##👩🏾‍💻 Author
+- Name: Jessica O'Bonna
+- LinkedIn: https://www.linkedin.com/in/jessica-obonna
+
 
